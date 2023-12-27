@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 688.64 515.9">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: .71px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #848484;
+      }
+
+      .cls-3 {
+        stroke-dasharray: 0 0 1.7 .85;
+      }
+
+      .cls-4 {
+        stroke: #adadad;
+      }
+
+      .cls-5 {
+        stroke: gray;
+        stroke-width: .85px;
+      }
+    </style>
+  </defs>
+  <g id="A-ROOF-UPPER-MAJOR">
+    <g id="LINE">
+      <line class="cls-1" x1="532.34" y1="186.37" x2="304.3" y2="186.37"/>
+    </g>
+    <g id="LINE-2" data-name="LINE">
+      <line class="cls-1" x1="304.3" y1="118.34" x2="304.3" y2="186.37"/>
+    </g>
+    <g id="LINE-3" data-name="LINE">
+      <line class="cls-1" x1="304.3" y1="118.34" x2="264.47" y2="118.34"/>
+    </g>
+    <g id="LINE-4" data-name="LINE">
+      <line class="cls-1" x1="73.13" y1="347.95" x2="301.04" y2="347.95"/>
+    </g>
+    <g id="LINE-5" data-name="LINE">
+      <line class="cls-1" x1="532.34" y1="186.37" x2="532.34" y2="290.83"/>
+    </g>
+    <g id="LINE-6" data-name="LINE">
+      <line class="cls-1" x1="73.13" y1="80.07" x2="264.47" y2="80.07"/>
+    </g>
+    <g id="LINE-7" data-name="LINE">
+      <line class="cls-1" x1="263.05" y1="81.49" x2="74.55" y2="81.49"/>
+    </g>
+    <g id="LINE-8" data-name="LINE">
+      <line class="cls-1" x1="73.13" y1="80.07" x2="73.13" y2="347.95"/>
+    </g>
+    <g id="LINE-9" data-name="LINE">
+      <line class="cls-1" x1="74.55" y1="81.49" x2="74.55" y2="346.53"/>
+    </g>
+    <g id="LINE-10" data-name="LINE">
+      <line class="cls-1" x1="74.55" y1="346.53" x2="225.35" y2="346.53"/>
+    </g>
+    <g id="LINE-11" data-name="LINE">
+      <line class="cls-1" x1="302.88" y1="119.76" x2="302.88" y2="187.79"/>
+    </g>
+    <g id="LINE-12" data-name="LINE">
+      <line class="cls-1" x1="302.88" y1="119.76" x2="263.05" y2="119.76"/>
+    </g>
+    <g id="LINE-13" data-name="LINE">
+      <line class="cls-1" x1="264.47" y1="80.07" x2="264.47" y2="118.34"/>
+    </g>
+    <g id="LINE-14" data-name="LINE">
+      <line class="cls-1" x1="263.05" y1="81.49" x2="263.05" y2="119.76"/>
+    </g>
+    <g id="LINE-15" data-name="LINE">
+      <line class="cls-1" x1="530.93" y1="187.79" x2="302.88" y2="187.79"/>
+    </g>
+    <g id="LINE-16" data-name="LINE">
+      <line class="cls-1" x1="530.93" y1="187.79" x2="530.93" y2="290.83"/>
+    </g>
+    <g id="LINE-17" data-name="LINE">
+      <line class="cls-1" x1="221.81" y1="350.07" x2="253.27" y2="350.07"/>
+    </g>
+    <g id="LINE-18" data-name="LINE">
+      <line class="cls-1" x1="221.81" y1="350.07" x2="221.81" y2="381.54"/>
+    </g>
+    <g id="LINE-19" data-name="LINE">
+      <line class="cls-1" x1="221.81" y1="381.54" x2="253.27" y2="381.54"/>
+    </g>
+    <g id="LINE-20" data-name="LINE">
+      <line class="cls-1" x1="253.27" y1="350.07" x2="253.27" y2="381.54"/>
+    </g>
+    <g id="LINE-21" data-name="LINE">
+      <line class="cls-1" x1="303.59" y1="349.08" x2="520.29" y2="349.08"/>
+    </g>
+    <g id="LINE-22" data-name="LINE">
+      <line class="cls-1" x1="527.1" y1="290.97" x2="542.4" y2="290.97"/>
+    </g>
+    <g id="LINE-23" data-name="LINE">
+      <line class="cls-1" x1="542.4" y1="290.97" x2="542.4" y2="360.7"/>
+    </g>
+    <g id="LINE-24" data-name="LINE">
+      <line class="cls-1" x1="542.4" y1="360.7" x2="520.29" y2="360.7"/>
+    </g>
+    <g id="LINE-25" data-name="LINE">
+      <line class="cls-1" x1="520.29" y1="360.7" x2="520.29" y2="308.26"/>
+    </g>
+    <g id="LINE-26" data-name="LINE">
+      <line class="cls-1" x1="520.29" y1="308.26" x2="527.1" y2="308.26"/>
+    </g>
+    <g id="LINE-27" data-name="LINE">
+      <line class="cls-1" x1="527.1" y1="290.97" x2="527.1" y2="308.26"/>
+    </g>
+    <g id="LINE-28" data-name="LINE">
+      <line class="cls-1" x1="521.71" y1="359.29" x2="521.71" y2="309.68"/>
+    </g>
+    <g id="LINE-29" data-name="LINE">
+      <line class="cls-1" x1="521.71" y1="309.68" x2="528.51" y2="309.68"/>
+    </g>
+    <g id="LINE-30" data-name="LINE">
+      <line class="cls-1" x1="528.51" y1="292.39" x2="528.51" y2="309.68"/>
+    </g>
+    <g id="LINE-31" data-name="LINE">
+      <line class="cls-1" x1="528.51" y1="292.39" x2="540.99" y2="292.39"/>
+    </g>
+    <g id="LINE-32" data-name="LINE">
+      <line class="cls-1" x1="540.99" y1="292.39" x2="540.99" y2="359.29"/>
+    </g>
+    <g id="LINE-33" data-name="LINE">
+      <line class="cls-1" x1="540.99" y1="359.29" x2="521.71" y2="359.29"/>
+    </g>
+    <g id="LINE-34" data-name="LINE">
+      <line class="cls-1" x1="301.04" y1="350.5" x2="520.29" y2="350.5"/>
+    </g>
+    <g id="LINE-35" data-name="LINE">
+      <line class="cls-1" x1="301.04" y1="347.95" x2="301.04" y2="350.5"/>
+    </g>
+    <g id="LINE-36" data-name="LINE">
+      <line class="cls-1" x1="302.46" y1="346.96" x2="302.46" y2="347.95"/>
+    </g>
+    <g id="LINE-37" data-name="LINE">
+      <line class="cls-1" x1="302.46" y1="347.95" x2="303.59" y2="349.08"/>
+    </g>
+  </g>
+  <g id="A-ROOF-BELOW-MAJOR">
+    <g id="LINE-38" data-name="LINE">
+      <line class="cls-2" x1="56.27" y1="63.21" x2="281.34" y2="63.21"/>
+    </g>
+    <g id="LINE-39" data-name="LINE">
+      <line class="cls-2" x1="281.34" y1="118.34" x2="281.34" y2="63.21"/>
+    </g>
+    <g id="LINE-40" data-name="LINE">
+      <line class="cls-2" x1="56.27" y1="364.81" x2="56.27" y2="63.21"/>
+    </g>
+    <g id="LINE-41" data-name="LINE">
+      <line class="cls-2" x1="244.06" y1="381.54" x2="244.06" y2="407.48"/>
+    </g>
+    <g id="LINE-42" data-name="LINE">
+      <line class="cls-2" x1="298.49" y1="407.48" x2="244.06" y2="407.48"/>
+    </g>
+    <g id="LINE-43" data-name="LINE">
+      <line class="cls-2" x1="298.49" y1="458.5" x2="298.49" y2="407.48"/>
+    </g>
+    <g id="LINE-44" data-name="LINE">
+      <line class="cls-2" x1="298.49" y1="458.5" x2="383.38" y2="458.5"/>
+    </g>
+    <g id="LINE-45" data-name="LINE">
+      <line class="cls-2" x1="383.38" y1="458.5" x2="383.38" y2="407.48"/>
+    </g>
+    <g id="LINE-46" data-name="LINE">
+      <line class="cls-2" x1="383.81" y1="407.48" x2="589.18" y2="407.48"/>
+    </g>
+    <g id="LINE-47" data-name="LINE">
+      <line class="cls-2" x1="589.18" y1="407.48" x2="589.18" y2="136.2"/>
+    </g>
+    <g id="LINE-48" data-name="LINE">
+      <line class="cls-2" x1="530.5" y1="136.2" x2="530.5" y2="186.37"/>
+    </g>
+    <g id="LINE-49" data-name="LINE">
+      <line class="cls-2" x1="589.18" y1="136.2" x2="530.5" y2="136.2"/>
+    </g>
+    <g id="LINE-50" data-name="LINE">
+      <line class="cls-2" x1="56.27" y1="364.81" x2="221.81" y2="364.81"/>
+    </g>
+    <g id="LINE-51" data-name="LINE">
+      <line class="cls-2" x1="465.87" y1="156.61" x2="465.87" y2="186.37"/>
+    </g>
+    <g id="LINE-52" data-name="LINE">
+      <line class="cls-2" x1="530.5" y1="156.61" x2="465.87" y2="156.61"/>
+    </g>
+    <g id="LINE-53" data-name="LINE">
+      <line class="cls-2" x1="430.86" y1="175.03" x2="430.86" y2="186.37"/>
+    </g>
+    <g id="LINE-54" data-name="LINE">
+      <line class="cls-2" x1="465.87" y1="175.03" x2="430.86" y2="175.03"/>
+    </g>
+    <g id="LINE-55" data-name="LINE">
+      <line class="cls-2" x1="188.93" y1="63.21" x2="188.93" y2="73.41"/>
+    </g>
+    <g id="LINE-56" data-name="LINE">
+      <line class="cls-2" x1="225.21" y1="73.41" x2="225.21" y2="63.21"/>
+    </g>
+    <g id="LINE-57" data-name="LINE">
+      <line class="cls-2" x1="188.93" y1="73.41" x2="225.21" y2="73.41"/>
+    </g>
+    <g id="LINE-58" data-name="LINE">
+      <line class="cls-2" x1="112.53" y1="63.21" x2="112.53" y2="73.41"/>
+    </g>
+    <g id="LINE-59" data-name="LINE">
+      <line class="cls-2" x1="112.53" y1="73.41" x2="148.68" y2="73.41"/>
+    </g>
+    <g id="LINE-60" data-name="LINE">
+      <line class="cls-2" x1="148.68" y1="73.41" x2="148.68" y2="63.21"/>
+    </g>
+    <g id="LINE-61" data-name="LINE">
+      <line class="cls-2" x1="66.47" y1="119.33" x2="56.27" y2="119.33"/>
+    </g>
+    <g id="LINE-62" data-name="LINE">
+      <line class="cls-2" x1="66.47" y1="155.62" x2="66.47" y2="119.33"/>
+    </g>
+    <g id="LINE-63" data-name="LINE">
+      <line class="cls-2" x1="56.27" y1="155.62" x2="66.47" y2="155.62"/>
+    </g>
+    <g id="LINE-64" data-name="LINE">
+      <line class="cls-2" x1="66.47" y1="195.83" x2="56.27" y2="195.83"/>
+    </g>
+    <g id="LINE-65" data-name="LINE">
+      <line class="cls-2" x1="56.27" y1="231.97" x2="66.47" y2="231.97"/>
+    </g>
+    <g id="LINE-66" data-name="LINE">
+      <line class="cls-2" x1="66.47" y1="231.97" x2="66.47" y2="195.83"/>
+    </g>
+    <g id="LINE-67" data-name="LINE">
+      <line class="cls-2" x1="66.47" y1="272.4" x2="56.27" y2="272.4"/>
+    </g>
+    <g id="LINE-68" data-name="LINE">
+      <line class="cls-2" x1="56.27" y1="308.69" x2="66.47" y2="308.69"/>
+    </g>
+    <g id="LINE-69" data-name="LINE">
+      <line class="cls-2" x1="66.47" y1="308.69" x2="66.47" y2="272.4"/>
+    </g>
+    <g id="LINE-70" data-name="LINE">
+      <line class="cls-2" x1="112.32" y1="364.81" x2="112.32" y2="354.61"/>
+    </g>
+    <g id="LINE-71" data-name="LINE">
+      <line class="cls-2" x1="112.32" y1="354.61" x2="148.68" y2="354.61"/>
+    </g>
+    <g id="LINE-72" data-name="LINE">
+      <line class="cls-2" x1="148.68" y1="354.61" x2="148.68" y2="364.81"/>
+    </g>
+    <g id="LINE-73" data-name="LINE">
+      <line class="cls-2" x1="188.93" y1="354.61" x2="221.81" y2="354.61"/>
+    </g>
+    <g id="LINE-74" data-name="LINE">
+      <line class="cls-2" x1="188.93" y1="364.81" x2="188.93" y2="354.61"/>
+    </g>
+    <g id="LINE-75" data-name="LINE">
+      <line class="cls-2" x1="244.06" y1="378.14" x2="244.06" y2="381.54"/>
+    </g>
+    <g id="LINE-76" data-name="LINE">
+      <line class="cls-3" x1="221.81" y1="364.81" x2="225.21" y2="364.81"/>
+    </g>
+    <g id="LINE-77" data-name="LINE">
+      <line class="cls-3" x1="221.81" y1="354.61" x2="225.21" y2="354.61"/>
+    </g>
+  </g>
+  <g id="A-ROOF-BELOW-MINOR">
+    <g id="LINE-78" data-name="LINE">
+      <line class="cls-4" x1="74.33" y1="80.07" x2="57.47" y2="63.21"/>
+    </g>
+    <g id="LINE-79" data-name="LINE">
+      <line class="cls-4" x1="73.13" y1="81.28" x2="56.27" y2="64.41"/>
+    </g>
+    <g id="LINE-80" data-name="LINE">
+      <line class="cls-4" x1="73.13" y1="346.74" x2="56.27" y2="363.61"/>
+    </g>
+    <g id="LINE-81" data-name="LINE">
+      <line class="cls-4" x1="57.47" y1="364.81" x2="74.33" y2="347.95"/>
+    </g>
+    <g id="LINE-82" data-name="LINE">
+      <line class="cls-4" x1="467.29" y1="158.03" x2="467.29" y2="186.37"/>
+    </g>
+    <g id="LINE-83" data-name="LINE">
+      <line class="cls-4" x1="530.5" y1="158.03" x2="467.29" y2="158.03"/>
+    </g>
+    <g id="LINE-84" data-name="LINE">
+      <line class="cls-4" x1="589.18" y1="406.27" x2="542.4" y2="359.5"/>
+    </g>
+    <g id="LINE-85" data-name="LINE">
+      <line class="cls-4" x1="587.97" y1="407.48" x2="541.2" y2="360.7"/>
+    </g>
+    <g id="LINE-86" data-name="LINE">
+      <line class="cls-4" x1="587.86" y1="136.2" x2="531.06" y2="186.37"/>
+    </g>
+    <g id="LINE-87" data-name="LINE">
+      <line class="cls-4" x1="589.18" y1="137.3" x2="532.34" y2="187.51"/>
+    </g>
+    <g id="LINE-88" data-name="LINE">
+      <line class="cls-4" x1="263.27" y1="80.07" x2="280.13" y2="63.21"/>
+    </g>
+    <g id="LINE-89" data-name="LINE">
+      <line class="cls-4" x1="264.47" y1="81.28" x2="281.34" y2="64.41"/>
+    </g>
+    <g id="LINE-90" data-name="LINE">
+      <line class="cls-4" x1="298.04" y1="347.95" x2="255.94" y2="360.41"/>
+    </g>
+    <g id="LINE-91" data-name="LINE">
+      <line class="cls-4" x1="255.94" y1="362.19" x2="301.04" y2="348.83"/>
+    </g>
+    <g id="LINE-92" data-name="LINE">
+      <line class="cls-4" x1="255.94" y1="360.41" x2="253.27" y2="358.82"/>
+    </g>
+    <g id="LINE-93" data-name="LINE">
+      <line class="cls-4" x1="255.94" y1="360.41" x2="255.92" y2="362.19"/>
+    </g>
+    <g id="LINE-94" data-name="LINE">
+      <line class="cls-4" x1="255.92" y1="362.19" x2="253.27" y2="371.92"/>
+    </g>
+    <g id="LINE-95" data-name="LINE">
+      <line class="cls-4" x1="301.04" y1="349.3" x2="244.06" y2="406.27"/>
+    </g>
+    <g id="LINE-96" data-name="LINE">
+      <line class="cls-4" x1="302.24" y1="350.5" x2="245.26" y2="407.48"/>
+    </g>
+    <g id="LINE-97" data-name="LINE">
+      <line class="cls-4" x1="251.57" y1="378.14" x2="249.87" y2="378.14"/>
+    </g>
+    <g id="LINE-98" data-name="LINE">
+      <line class="cls-4" x1="253.27" y1="371.92" x2="251.57" y2="378.18"/>
+    </g>
+    <g id="LINE-99" data-name="LINE">
+      <line class="cls-4" x1="253.27" y1="358.82" x2="249.87" y2="356.78"/>
+    </g>
+  </g>
+  <g id="A-ROOF-GTTR-DRAN">
+    <g id="CIRCLE">
+      <circle class="cls-5" cx="59.85" cy="63.21" r=".43"/>
+    </g>
+    <g id="CIRCLE-2" data-name="CIRCLE">
+      <circle class="cls-5" cx="146.45" cy="63.21" r=".43"/>
+    </g>
+    <g id="CIRCLE-3" data-name="CIRCLE">
+      <circle class="cls-5" cx="228.94" cy="63.21" r=".43"/>
+    </g>
+    <g id="CIRCLE-4" data-name="CIRCLE">
+      <circle class="cls-5" cx="56.27" cy="136.2" r=".43"/>
+    </g>
+    <g id="CIRCLE-5" data-name="CIRCLE">
+      <circle class="cls-5" cx="281.34" cy="115.89" r=".43"/>
+    </g>
+    <g id="CIRCLE-6" data-name="CIRCLE">
+      <circle class="cls-5" cx="56.27" cy="251.85" r=".43"/>
+    </g>
+    <g id="CIRCLE-7" data-name="CIRCLE">
+      <circle class="cls-5" cx="56.27" cy="332" r=".43"/>
+    </g>
+    <g id="CIRCLE-8" data-name="CIRCLE">
+      <circle class="cls-5" cx="112.25" cy="364.81" r=".43"/>
+    </g>
+    <g id="CIRCLE-9" data-name="CIRCLE">
+      <circle class="cls-5" cx="188.79" cy="364.81" r=".43"/>
+    </g>
+    <g id="CIRCLE-10" data-name="CIRCLE">
+      <circle class="cls-5" cx="303.3" cy="458.5" r=".43"/>
+    </g>
+    <g id="CIRCLE-11" data-name="CIRCLE">
+      <circle class="cls-5" cx="378.57" cy="458.5" r=".43"/>
+    </g>
+    <g id="CIRCLE-12" data-name="CIRCLE">
+      <circle class="cls-5" cx="385.93" cy="407.48" r=".43"/>
+    </g>
+    <g id="CIRCLE-13" data-name="CIRCLE">
+      <circle class="cls-5" cx="417.25" cy="407.48" r=".43"/>
+    </g>
+    <g id="CIRCLE-14" data-name="CIRCLE">
+      <circle class="cls-5" cx="456.37" cy="407.48" r=".43"/>
+    </g>
+    <g id="CIRCLE-15" data-name="CIRCLE">
+      <circle class="cls-5" cx="493.79" cy="407.48" r=".43"/>
+    </g>
+    <g id="CIRCLE-16" data-name="CIRCLE">
+      <circle class="cls-5" cx="532.06" cy="407.48" r=".43"/>
+    </g>
+    <g id="CIRCLE-17" data-name="CIRCLE">
+      <circle class="cls-5" cx="568.63" cy="407.48" r=".43"/>
+    </g>
+    <g id="CIRCLE-18" data-name="CIRCLE">
+      <circle class="cls-5" cx="589.18" cy="389" r=".43"/>
+    </g>
+    <g id="CIRCLE-19" data-name="CIRCLE">
+      <circle class="cls-5" cx="589.18" cy="347.95" r=".43"/>
+    </g>
+    <g id="CIRCLE-20" data-name="CIRCLE">
+      <circle class="cls-5" cx="589.18" cy="309.68" r=".43"/>
+    </g>
+    <g id="CIRCLE-21" data-name="CIRCLE">
+      <circle class="cls-5" cx="589.18" cy="271.41" r=".43"/>
+    </g>
+    <g id="CIRCLE-22" data-name="CIRCLE">
+      <circle class="cls-5" cx="589.18" cy="233.14" r=".43"/>
+    </g>
+    <g id="CIRCLE-23" data-name="CIRCLE">
+      <circle class="cls-5" cx="589.18" cy="194.88" r=".43"/>
+    </g>
+    <g id="CIRCLE-24" data-name="CIRCLE">
+      <circle class="cls-5" cx="589.18" cy="156.61" r=".43"/>
+    </g>
+    <g id="CIRCLE-25" data-name="CIRCLE">
+      <circle class="cls-5" cx="568.63" cy="136.2" r=".43"/>
+    </g>
+    <g id="CIRCLE-26" data-name="CIRCLE">
+      <circle class="cls-5" cx="224.5" cy="364.81" r=".43"/>
+    </g>
+    <g id="CIRCLE-27" data-name="CIRCLE">
+      <circle class="cls-5" cx="296.07" cy="407.48" r=".43"/>
+    </g>
+  </g>
+</svg>

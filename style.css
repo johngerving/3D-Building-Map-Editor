@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html,
+body {
+  margin: 0;
+  height: 100%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#c {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+#floors {
+  position: absolute;
+  background: white;
+  border-radius: 5px;
+  top: 10px;
+  left: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 10px;
+  z-index: 100;
+}
+
+#floors h3 {
+  text-align: center;
+}
+
+#floors ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#floors li {
+  margin: 5px;
+}
+
+#floors input[type="checkbox"] {
+  margin-right: 5px;
+}
